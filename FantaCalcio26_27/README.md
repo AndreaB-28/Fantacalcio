@@ -50,9 +50,12 @@ HYBRID: le sostituzioni avvengono in via prioritaria tra calciatori dello stesso
 
 #Fonte Voti
 
+
 <img width="345" height="74" alt="image" src="https://github.com/user-attachments/assets/10f58911-722a-4189-963f-024448df2dc4" />
 
+
 <img width="350" height="694" alt="image" src="https://github.com/user-attachments/assets/ef29d6d8-3e34-459b-8ddf-e1a8a5072995" />
+
 
 <img width="348" height="789" alt="image" src="https://github.com/user-attachments/assets/94f83205-9abb-4ec8-8341-26c750116f30" />
 
